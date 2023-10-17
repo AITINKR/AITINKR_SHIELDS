@@ -4,7 +4,7 @@
 #include <WProgram.h>
 #endif
 
-#include "AITINKR_SHIELD.h"
+#include "AITINKR_SHIELDS.h"
 
 #define motorRF 8 
 #define motorRB 7

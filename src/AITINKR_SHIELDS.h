@@ -1,5 +1,5 @@
-#ifndef AITINKR_SHIELD_h
-#define AITINKR_SHIELD_h
+#ifndef AITINKR_SHIELDS_h
+#define AITINKR_SHIELDS_h
 
 
 class Ultrasonic {
@@ -34,4 +34,4 @@ private:
 
 
 
-#endif  // AITINKR_IO_sheild_v1_h
+#endif  // AITINKR_SHIELDS_h
