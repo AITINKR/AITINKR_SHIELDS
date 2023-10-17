@@ -1,5 +1,5 @@
-#ifndef AITINKR_SHEILD_h
-#define AITINKR_SHEILD_h
+#ifndef AITINKR_SHIELD_h
+#define AITINKR_SHIELD_h
 
 
 class Ultrasonic {
