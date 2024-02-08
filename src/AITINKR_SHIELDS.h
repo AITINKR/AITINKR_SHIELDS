@@ -17,16 +17,16 @@ private:
   unsigned int getDis();
 };
 
-class motor {
+// class motor {
 
-public:
-  void motor::init();
-  void motor::setSpeed(uint8_t sp);
-  void motor::forword();
-  void motor::backword();
-  void motor::right();
-  void motor::left();
-  void motor::stop();
+// public:
+//   void motor::init();
+//   void motor::setSpeed(uint8_t sp);
+//   void motor::forword();
+//   void motor::backword();
+//   void motor::right();
+//   void motor::left();
+//   void motor::stop();
 
 
 private:
